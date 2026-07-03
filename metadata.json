@@ -1,0 +1,6 @@
+{
+  "name": "Everton John Assessoria",
+  "description": "Página de links premium e mobile-first para a Everton John Assessoria em Treinamento Físico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
